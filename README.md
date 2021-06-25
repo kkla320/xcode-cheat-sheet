@@ -3,6 +3,7 @@
 ## Table of content
 - [Project navigation](#project-navigation)
 - [File manipulation](#file-manipulation)
+- [Testing](#testing)
 
 ## Project navigation
 
@@ -20,3 +21,9 @@
 | ⌃I       | Reindent               |
 | ⌘A       | Select all             |
 | ⌘S       | Save current file      |
+
+## Testing
+
+| Shortcut | Description   |
+| -------- | ------------- |
+| ⌘U       | Run all tests |
