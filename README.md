@@ -29,3 +29,9 @@
 | -------- | ------------------------ |
 | ⌘U       | Run all tests            |
 | ⌃⌥⌘G     | Run previous tests again |
+
+## Refactoring
+
+| Shortcut | Description       |
+| -------- | ----------------- |
+| ⇧⌘A      | Open code actions |
