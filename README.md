@@ -7,10 +7,11 @@
 
 ## Project navigation
 
-| Shortcut | Description         |
-| -------- | ------------------- |
-| ⌘O       | Open quickly        |
-| ⌃6       | Show document items |
+| Shortcut | Description                         |
+| -------- | ----------------------------------- |
+| ⌘⇧O      | Open quickly                        |
+| ⌘⇧J      | Show current file project navigator |
+| ⌃6       | Show document items                 |
 
 ## File manipulation
 
@@ -24,6 +25,7 @@
 
 ## Testing
 
-| Shortcut | Description   |
-| -------- | ------------- |
-| ⌘U       | Run all tests |
+| Shortcut | Description              |
+| -------- | ------------------------ |
+| ⌘U       | Run all tests            |
+| ⌃⌥⌘G     | Run previous tests again |
